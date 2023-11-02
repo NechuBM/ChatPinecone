@@ -1,5 +1,5 @@
 
-# 🧮🗨️  Pinecone y ChatGPT | Tutorial Base de Datos Vectorial desde 0. 
+# 🧮🗨️  Pinecone y ChatGPT | Tutorial Base de Datos Vectorial desde 0
 ### Convierte a ChatGPT en tu Asistente Personal de Búsqueda de Documentos
 
 🚀 [Tutorial en Español | Youtube](https://youtu.be/adq0BFxQ4C0)
